@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\RockPaperScissors\\Server\\Server.csproj",
+      "projectUniqueName": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\RockPaperScissors\\Server\\Server.csproj",
+      "projectPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
-      "outputPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\RockPaperScissors\\Server\\obj\\",
+      "outputPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huywill\\AppData\\Roaming\\NuGet\\NuGet.Config",
