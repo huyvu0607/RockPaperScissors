@@ -1,13 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\",
+  "WorkspaceRootPath": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|d:\\hoc_tren_truong\\lap_trinh_mang\\git_mid_term\\rockpaperscissors\\rockpaperscissors\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967E9310-B9AA-49C6-A710-F32B57CA155F}|Server\\Server.csproj|d:\\hoc_tren_truong\\lap_trinh_mang\\git_mid_term\\rockpaperscissors\\rockpaperscissors\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E9310-B9AA-49C6-A710-F32B57CA155F}|Server\\Server.csproj|c:\\users\\lqq\\onedrive\\m\u00E1y t\u00EDnh\\github\\rockpaperscissors\\rockpaperscissors\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967E9310-B9AA-49C6-A710-F32B57CA155F}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +42,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -40,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs",
               "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs [Design]",
               "RelativeToolTip": "Client\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T11:08:11.689Z",
@@ -51,14 +83,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.Designer.cs",
+              "RelativeToolTip": "Client\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:29:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:17:44.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:21:59.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Client\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Client\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T11:08:01.499Z"
+              "WhenOpened": "2025-08-11T03:19:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Client\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\Properties\\Resources.resx",
+              "RelativeToolTip": "Client\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-11T03:21:04.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\App.config",
+              "RelativeDocumentMoniker": "Client\\App.config",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Client\\App.config",
+              "RelativeToolTip": "Client\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-11T03:20:06.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\LQQ\\OneDrive\\M\u00E1y t\u00EDnh\\github\\RockPaperScissors\\RockPaperScissors\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:08:01.499Z",
+              "EditorCaption": ""
             }
           ]
         },
