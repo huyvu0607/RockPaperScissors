@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "4h9Aqzwsw1M=",
+  "success": true,
+  "projectFilePath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
+=======
+  "dgSpecHash": "cKwew3e+Ytw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tm987\\OneDrive\\Desktop\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
+>>>>>>> d0445f36339e06ab3cd840d0f7d2b9d2943c7b32
+  "expectedPackageFiles": [],
+  "logs": []
+}
