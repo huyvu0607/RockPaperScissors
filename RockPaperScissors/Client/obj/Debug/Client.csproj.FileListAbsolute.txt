@@ -1,0 +1,10 @@
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\bin\Debug\Client.exe.config
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\bin\Debug\Client.exe
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\bin\Debug\Client.pdb
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.Form1.resources
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.Properties.Resources.resources
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.exe
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Client\obj\Debug\Client.pdb

@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj": {}
+  },
+  "projects": {
+    "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
+        "outputPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\obj\\",
+=======
     "C:\\Users\\tm987\\OneDrive\\Desktop\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\tm987\\OneDrive\\Desktop\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\tm987\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tm987\\OneDrive\\Desktop\\RockPaperScissors\\RockPaperScissors\\Server\\obj\\",
+>>>>>>> d0445f36339e06ab3cd840d0f7d2b9d2943c7b32
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
