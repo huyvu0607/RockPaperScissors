@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\RockPaperScissors\\",
+  "WorkspaceRootPath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFBC8142-86E7-4CBE-AFD2-89E99B40A453}|RockPaperScissors\\RockPaperScissors.csproj|d:\\hoc_tren_truong\\lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\rockpaperscissors\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFBC8142-86E7-4CBE-AFD2-89E99B40A453}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|d:\\hoc_tren_truong\\lap_trinh_mang\\git_mid_term\\rockpaperscissors\\rockpaperscissors\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BC8EE1C-1DB6-4DEB-93D8-4C8780017134}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E9310-B9AA-49C6-A710-F32B57CA155F}|Server\\Server.csproj|d:\\hoc_tren_truong\\lap_trinh_mang\\git_mid_term\\rockpaperscissors\\rockpaperscissors\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967E9310-B9AA-49C6-A710-F32B57CA155F}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,21 +33,32 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\RockPaperScissors\\RockPaperScissors\\Program.cs",
-              "RelativeDocumentMoniker": "RockPaperScissors\\Program.cs",
-              "ToolTip": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\aaaaaaaaaaaaaaaaaaaaaa\\RockPaperScissors\\RockPaperScissors\\Program.cs",
-              "RelativeToolTip": "RockPaperScissors\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T11:07:45.103Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:08:11.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:08:01.499Z"
             }
           ]
         },
