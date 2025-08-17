@@ -1,0 +1,15 @@
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\bin\Debug\net8.0\Server.exe
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\bin\Debug\net8.0\Server.deps.json
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\bin\Debug\net8.0\Server.dll
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\bin\Debug\net8.0\Server.pdb
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.sourcelink.json
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.dll
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\refint\Server.dll
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.pdb
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\obj\Debug\net8.0\ref\Server.dll
