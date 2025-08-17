@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Server
-build_property.ProjectDir = D:\HOC_TREN_TRUONG\Lap_trinh_mang\aaaaaaaaaaaaaaaaaaaaaa\RockPaperScissors\Server\
+build_property.ProjectDir = D:\HOC_TREN_TRUONG\Lap_trinh_mang\GIT_mid_term\RockPaperScissors\RockPaperScissors\Server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
