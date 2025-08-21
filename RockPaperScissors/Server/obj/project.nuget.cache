@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "4h9Aqzwsw1M=",
+  "dgSpecHash": "VKT6bC1EJ2A=",
   "success": true,
-  "projectFilePath": "D:\\HOC_TREN_TRUONG\\Lap_trinh_mang\\GIT_mid_term\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
-=======
-  "dgSpecHash": "cKwew3e+Ytw=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\tm987\\OneDrive\\Desktop\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
->>>>>>> d0445f36339e06ab3cd840d0f7d2b9d2943c7b32
+  "projectFilePath": "C:\\Users\\LQQ\\OneDrive\\Máy tính\\github1\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\LQQ\\OneDrive\\Máy tính\\github1\\RockPaperScissors\\RockPaperScissors\\Server\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\LQQ\\OneDrive\\Máy tính\\github1\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\LQQ\\OneDrive\\Máy tính\\github1\\RockPaperScissors\\RockPaperScissors\\Server\\Server.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
